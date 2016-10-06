@@ -46,7 +46,9 @@ Despite the fact that this program is a daemon process, users have asked that it
 <br>The provided link comes with the necessary Compiler built in, you should be ok.
 <br><br>Another approach: download the Qt Designer and work on the UI seperate from the Code.
 <br>The only caveat is that there will be no inter connected talking between *.ui *.cpp and *.h files
+
 ### C# IDE
+
 - Visual Studio Community 2015
 <br><br>To begin working go to this website
 <br>https://www.visualstudio.com/vs/community/
